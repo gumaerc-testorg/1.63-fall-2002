@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c6e346b5-4e40-7683-cec6-2e232671cc3c
 resourcetype: Document
 title: dispchan.pdf
 uid: 7160ede6-da36-1cf5-91f4-ffe384b471e0

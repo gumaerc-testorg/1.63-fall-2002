@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8e97ad61-5a17-09fa-6ecd-9633ab2ab9d9
 resourcetype: Document
 title: 52KHcontin.pdf
 uid: 49955a0c-0c0f-8641-ddac-43bab9d4ec9d

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8e97ad61-5a17-09fa-6ecd-9633ab2ab9d9
 resourcetype: Document
 title: 53Rayleigh.pdf
 uid: 9e69490d-9643-ab34-924a-098737183595

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8e97ad61-5a17-09fa-6ecd-9633ab2ab9d9
 resourcetype: Document
 title: 14forces.pdf
 uid: 207b0fbc-8614-ebc0-a74c-8e46d09f3758

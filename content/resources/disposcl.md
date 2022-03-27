@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c6e346b5-4e40-7683-cec6-2e232671cc3c
 resourcetype: Document
 title: disposcl.pdf
 uid: 09309339-932d-9917-dad1-31cb32376be4

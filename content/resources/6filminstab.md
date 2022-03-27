@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c6e346b5-4e40-7683-cec6-2e232671cc3c
 resourcetype: Document
 title: 6filminstab.pdf
 uid: 1be49d83-5d7d-b4aa-4dec-4710b08589a5

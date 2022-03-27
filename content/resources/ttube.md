@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c6e346b5-4e40-7683-cec6-2e232671cc3c
 resourcetype: Document
 title: Ttube.pdf
 uid: 895a04d1-8eac-d065-7b41-a3058d8263f2
