@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Differential Heating of the Water Surface
-file: /media/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/e6dfb416532787a7114b7a3af9212348_7diffheat.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/e6dfb416532787a7114b7a3af9212348_7diffheat.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 7diffheat.pdf
 uid: e6dfb416-5327-87a7-114b-7a3af9212348
 ---
+Differential Heating of the Water Surface
+
