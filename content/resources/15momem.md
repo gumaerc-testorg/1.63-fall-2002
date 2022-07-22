@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/9c89bd5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 15momem.pdf
 uid: 9c89bd5f-d8f9-c4a4-748a-64e2c333acc1
 ---
 1.5 Law of Momentum Conservation
-

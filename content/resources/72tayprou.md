@@ -7,6 +7,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/c527148
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: c5271481-0693-e858-3584-b39f5d057af9
 ---
 7.2 Vorticity in inviscid rotating fluids
 Taylor -Proudman theorem
-

@@ -8,6 +8,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/b206c49
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: b206c496-2f48-9973-0a12-8a7fb95f7e54
 ---
 CHAPTER 3. HIGH-SPEED FLOWS AND BOUNDARY LAYERS - 3.1 Flow of invisid and homogeneous
 fluids
-

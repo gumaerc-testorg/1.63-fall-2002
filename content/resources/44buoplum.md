@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/5a822c2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 44buoplum.pdf
 uid: 5a822c24-3fcf-47df-9ad5-39be01ce4cf7
 ---
 4.4 Buoyant plume from a steady heat source
-

@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/5eb39d2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 75cyclone.pdf
 uid: 5eb39d25-2373-5557-93e9-410457c327ea
 ---
 7.5 Cyclonic current forced by a swirling wind
-

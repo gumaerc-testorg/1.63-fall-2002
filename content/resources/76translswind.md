@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/a2f6784
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 76TransLSwind.pdf
 uid: a2f67847-7a63-b103-1e77-ff504af7e1e5
 ---
 7.6 Transient longshore wind
-

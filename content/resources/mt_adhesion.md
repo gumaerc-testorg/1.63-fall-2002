@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/09b1cae
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mt_adhesion.pdf
 uid: 09b1caeb-c2c0-1182-f9b6-0d92fe07a232
 ---
 Separating a Flat Object from a Smooth Surface
-

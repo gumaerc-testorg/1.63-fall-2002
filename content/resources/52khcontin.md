@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/49955a0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 52KHcontin.pdf
 uid: 49955a0c-0c0f-8641-ddac-43bab9d4ec9d
 ---
 5.2 Kelvin-Helmholz Instability for continuous shear and stratitication
-

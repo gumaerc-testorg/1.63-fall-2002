@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/20946c5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 41energy.pdf
 uid: 20946c50-7055-a595-c444-22b3616a83da
 ---
 CHAPTER 4. THERMAL EFFECTS IN FLUIDS - 4.1 Heat and energy conservation
-

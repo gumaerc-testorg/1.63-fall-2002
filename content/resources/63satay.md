@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/0fe5e99
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 63SaTay.pdf
 uid: 0fe5e99f-e5d5-bcdf-daec-8dd945c68bb9
 ---
 6.3 Saffman-Taylor instability in porous layer- Viscous fingering
-

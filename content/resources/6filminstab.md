@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/1be49d8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6filminstab.pdf
 uid: 1be49d83-5d7d-b4aa-4dec-4710b08589a5
 ---
 Hele-Shaw Analogy Between Lubrication and Seepage
-

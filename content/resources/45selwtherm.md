@@ -7,6 +7,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/205e867
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 205e8673-f1fc-eb32-6f2d-4294093d29da
 ---
 4.6 Selective withdrawl of thermally stratified
 fluid
-

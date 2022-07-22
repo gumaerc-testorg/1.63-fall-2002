@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/6677ae6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 32HiReBL.pdf
 uid: 6677ae6c-8bd7-6058-c7b4-c65fa55a59dd
 ---
 3.2 Viscous Flow at High Reynolds Numbers
-

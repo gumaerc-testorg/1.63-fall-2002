@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/3bfe7f2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 17vorti.pdf
 uid: 3bfe7f2f-1855-a133-c62c-3b0c9866409b
 ---
 1.7 Vorticity Theorem for a viscous fluid
-

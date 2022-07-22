@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: velpro.gif
 uid: 05f08378-9a1b-90d8-aaf9-26af288885b9
 ---
 Rayleigh's problem: velocity profile due to the impulsive motion of x-plane. (Simulation created by MATLAB?.)
-

@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/5c9b2d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 43MTwind.pdf
 uid: 5c9b2d0d-686f-7461-cdad-aff7ccaea410
 ---
 4.3 Buoyancy-driven convection - The Valley Wind
-

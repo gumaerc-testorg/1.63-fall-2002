@@ -7,6 +7,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/9e69490
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 9e69490d-9643-ab34-924a-098737183595
 ---
 5.3 Inviscid instability mechanism of parallel
 flows
-

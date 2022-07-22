@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/b30d696
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 12kinematics.pdf
 uid: b30d6961-dba0-d1e6-9481-6708886d6dae
 ---
 1.2 Kinematics of Fluid Motion -the Eulerian picture
-

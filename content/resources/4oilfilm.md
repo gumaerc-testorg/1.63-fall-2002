@@ -5,6 +5,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/83aa7e8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 4oilfilm.pdf
 uid: 83aa7e8e-19c3-6e34-2645-bf96b9c4ef3c
 ---
 Motion of Water Beneath a Spreading Oil Film
-

@@ -7,6 +7,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/9a3de12
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 9a3de12c-8dae-4665-c64f-93f71b9763f3
 ---
 4.6 Dispersion of supension in a steady shear
 flow
-

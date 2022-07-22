@@ -7,6 +7,7 @@ file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/2130e49
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 2130e49b-ab34-797b-794f-299468d5ef2b
 ---
 CHAPTER 2: LOW VISCOUS FLOWS - 2.1 A thin
 fluid layer flowing down an incline
-
