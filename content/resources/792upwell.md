@@ -2,6 +2,7 @@
 content_type: resource
 description: 7.9 Coastal upwelling in a two-layered sea
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/eebd5a2e4e140ad93de2ad482413de6c_792upwell.pdf
+file_size: 81432
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

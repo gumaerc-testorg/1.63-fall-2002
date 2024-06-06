@@ -2,6 +2,7 @@
 content_type: resource
 description: 3.7 Oscillatory Boundary Layers
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/d5ca2a0279fe424ef263b52f0058c705_37oscill_BL.pdf
+file_size: 276944
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

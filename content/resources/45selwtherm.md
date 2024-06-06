@@ -4,6 +4,7 @@ description: '4.6 Selective withdrawl of thermally stratified
 
   fluid'
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/205e8673f1fceb326f2d4294093d29da_45selwtherm.pdf
+file_size: 114989
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: CHAPTER 5. RUDIMENTS OF HYDRODYNAMIC INSTABILITY - 5.1 Kelvin-Helmholtz
   instability of flow with discon-tinuous shear and stratification
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/6be75c5411da07637038157eefb9f91d_51KHdiscont.pdf
+file_size: 79772
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 7.5 Cyclonic current forced by a swirling wind
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/5eb39d252373555793e9410457c327ea_75cyclone.pdf
+file_size: 64048
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

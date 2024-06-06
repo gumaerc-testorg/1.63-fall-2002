@@ -4,6 +4,7 @@ description: 'CHAPTER 6. SEEPAGE AND THERMAL EFFECTS
 
   IN POROUS MEDIA - 6.1 Empirical basis of Darcy''s law for seepage flow'
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/47962c42f9c2c96ef1c52e8de20ce9d7_61darcyEmp.pdf
+file_size: 59630
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
