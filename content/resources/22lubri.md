@@ -2,6 +2,7 @@
 content_type: resource
 description: 2.2 Lubrication approximation for flow in a thin layer
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/9e498d3af7be929ff8f528b740f68cf4_22lubri.pdf
+file_size: 39381
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
