@@ -2,6 +2,7 @@
 content_type: resource
 description: Jet from a point source of momentum
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/fc605a23fc0cde337b4df3f4b9f6f2db_cirjet.pdf
+file_size: 15193
 file_type: application/pdf
 learning_resource_types:
 - Assignments

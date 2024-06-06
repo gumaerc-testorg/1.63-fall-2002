@@ -2,6 +2,7 @@
 content_type: resource
 description: 19. Hele-Shaw Analogy Between Lubrication and Seepage Flows
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/d935daab62f4e2dc3c5f37dd7f6361c5_19heleshaw.pdf
+file_size: 51333
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: 1.9 Scaling and similarity parameters
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/1711dd22a2f613471f603af6d67e165a_19Scasim.pdf
+file_size: 44473
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

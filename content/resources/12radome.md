@@ -2,6 +2,7 @@
 content_type: resource
 description: Radome in the Rain
 file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/c7232f95b03bb8925d7bef6b4ffee5f8_12radome.pdf
+file_size: 18329
 file_type: application/pdf
 learning_resource_types:
 - Assignments
