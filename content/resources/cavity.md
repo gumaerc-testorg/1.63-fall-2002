@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Cavity collapse
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/e3e552f2bcbeb281001d0acb44596e11_cavity.pdf
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/e3e552f2bcbeb281001d0acb44596e11_cavity.pdf
 file_size: 27998
 file_type: application/pdf
 learning_resource_types:

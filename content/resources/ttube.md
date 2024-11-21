@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Draining of a T Tube
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/895a04d18eacd0657b41a3058d8263f2_Ttube.pdf
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/895a04d18eacd0657b41a3058d8263f2_Ttube.pdf
 file_size: 48838
 file_type: application/pdf
 learning_resource_types:
