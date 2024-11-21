@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dispersion in an open channel
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/7160ede6da361cf591f4ffe384b471e0_dispchan.pdf
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/7160ede6da361cf591f4ffe384b471e0_dispchan.pdf
 file_size: 13344
 file_type: application/pdf
 learning_resource_types:
