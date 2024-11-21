@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Spreading of lava on a horizontal plane
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/8ba5d354c5022df97e141d12008e27f2_13Huppert.pdf
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/8ba5d354c5022df97e141d12008e27f2_13Huppert.pdf
 file_size: 23081
 file_type: application/pdf
 learning_resource_types:

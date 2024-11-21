@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Rayleigh''s problem: velocity profile due to the impulsive motion of
   x-plane. (Simulation created by MATLAB?.)'
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/05f083789a1b90d8aaf926af288885b9_velpro.gif
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/05f083789a1b90d8aaf926af288885b9_velpro.gif
 file_size: 9160
 file_type: image/gif
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 1.7 Vorticity Theorem for a viscous fluid
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/3bfe7f2f1855a133c62c3b0c9866409b_17vorti.pdf
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/3bfe7f2f1855a133c62c3b0c9866409b_17vorti.pdf
 file_size: 41699
 file_type: application/pdf
 learning_resource_types:
