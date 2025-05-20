@@ -3,7 +3,7 @@ content_type: resource
 description: '4.6 Dispersion of supension in a steady shear
 
   flow'
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/9a3de12c8dae4665c64f93f71b9763f3_46disperstbkd.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/9a3de12c8dae4665c64f93f71b9763f3_46disperstbkd.pdf
 file_size: 85603
 file_type: application/pdf
 learning_resource_types:

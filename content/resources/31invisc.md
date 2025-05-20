@@ -4,7 +4,7 @@ description: 'CHAPTER 3. HIGH-SPEED FLOWS AND BOUNDARY LAYERS - 3.1 Flow of invi
   and homogeneous
 
   fluids'
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/b206c4962f4899730a128a7fb95f7e54_31Invisc.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/b206c4962f4899730a128a7fb95f7e54_31Invisc.pdf
 file_size: 54110
 file_type: application/pdf
 learning_resource_types:

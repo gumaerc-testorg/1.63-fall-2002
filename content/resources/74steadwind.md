@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 7.4 Steady onshore wind in a shallow Sea
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/043cff00c8151428223daf74973a07c0_74steadwind.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/043cff00c8151428223daf74973a07c0_74steadwind.pdf
 file_size: 64823
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'CHAPTER 1: BASICS - Methods of Describing Fluid Motion'
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/3823cd992cabcd183023ea0cad9226a2_11LagEul.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/3823cd992cabcd183023ea0cad9226a2_11LagEul.pdf
 file_size: 51865
 file_type: application/pdf
 learning_resource_types:

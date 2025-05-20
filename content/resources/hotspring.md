@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hot Spring at Yellowstone
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/99016a21856d3fba1c230f9b5146d392_hotspring.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/99016a21856d3fba1c230f9b5146d392_hotspring.pdf
 file_size: 32807
 file_type: application/pdf
 learning_resource_types:
