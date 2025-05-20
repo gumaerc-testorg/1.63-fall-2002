@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2.5 Stokes flow past a sphere
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/359411f0a9d2cd5b7368dab9cc34cdd7_25Stokes.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/359411f0a9d2cd5b7368dab9cc34cdd7_25Stokes.pdf
 file_size: 67426
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 4.2 Approximations for small temperature variation
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/5b8ff79a54627f08e6092d10759346dc_42approx.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/5b8ff79a54627f08e6092d10759346dc_42approx.pdf
 file_size: 46249
 file_type: application/pdf
 learning_resource_types:

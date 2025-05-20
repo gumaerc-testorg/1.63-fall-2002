@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 6.3 Saffman-Taylor instability in porous layer- Viscous fingering
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/0fe5e99fe5d5bcdfdaec8dd945c68bb9_63SaTay.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/0fe5e99fe5d5bcdfdaec8dd945c68bb9_63SaTay.pdf
 file_size: 93355
 file_type: application/pdf
 learning_resource_types:
