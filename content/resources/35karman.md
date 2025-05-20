@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 3.5 Karman's momentum integral approach
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/1c707e7133d67c58c248e14dac7b4b60_35Karman.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/1c707e7133d67c58c248e14dac7b4b60_35Karman.pdf
 file_size: 101011
 file_type: application/pdf
 learning_resource_types:

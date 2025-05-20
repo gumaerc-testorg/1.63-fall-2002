@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2.4 Spreading of a shallow mass on an incline
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/087d3e65e1658673196b1d38588cdf28_24spreadmud.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/087d3e65e1658673196b1d38588cdf28_24spreadmud.pdf
 file_size: 81563
 file_type: application/pdf
 learning_resource_types:

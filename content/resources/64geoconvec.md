@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 6.4 Geothermal convection in porous media
-file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/a371fb42b71a98b85881d5d03e3d8e21_64geoconvec.pdf
+file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/a371fb42b71a98b85881d5d03e3d8e21_64geoconvec.pdf
 file_size: 32330
 file_type: application/pdf
 learning_resource_types:
