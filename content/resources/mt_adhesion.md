@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Separating a Flat Object from a Smooth Surface
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/09b1caebc2c01182f9b60d92fe07a232_mt_adhesion.pdf
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/09b1caebc2c01182f9b60d92fe07a232_mt_adhesion.pdf
 file_size: 21530
 file_type: application/pdf
 learning_resource_types:
