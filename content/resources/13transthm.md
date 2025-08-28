@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 1.3 Kinematic transport theorem
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/4bbeb3c0de9503422b6049d2f9760af9_13transthm.pdf
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/4bbeb3c0de9503422b6049d2f9760af9_13transthm.pdf
 file_size: 45731
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: '5.3 Inviscid instability mechanism of parallel
 
   flows'
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/9e69490d9643ab34924a098737183595_53Rayleigh.pdf
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/9e69490d9643ab34924a098737183595_53Rayleigh.pdf
 file_size: 190951
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 6.5 Geothermal Plume
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/198bb5c58c8d777482a07ba04c591214_65gplumeL.pdf
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/198bb5c58c8d777482a07ba04c591214_65gplumeL.pdf
 file_size: 961667
 file_type: application/pdf
 learning_resource_types:
