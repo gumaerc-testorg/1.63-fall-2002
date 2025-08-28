@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2.7 Aerosols and coagulation
-file: /courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/e545246b3cd1722fd35a1fa12bda8987_27Aerosol.pdf
+file: /ol-ocw-studio-app/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/e545246b3cd1722fd35a1fa12bda8987_27Aerosol.pdf
 file_size: 72852
 file_type: application/pdf
 learning_resource_types:
