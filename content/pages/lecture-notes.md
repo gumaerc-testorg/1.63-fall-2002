@@ -9,7 +9,7 @@ title: Lecture Notes
 uid: 8e97ad61-5a17-09fa-6ecd-9633ab2ab9d9
 ---
 
-This section contains the lecture notes which serve two purposes: to guide the lecture topics and to serve as the required course readings. Many of the lecture notes have 1.63J/2.21J listed as the course number. This is the new course number as of Spring 2004, when the course will be offered as a joint course with the Mechanical Engineering Department, as part of an [iCampus](http://icampus.mit.edu/) school-wide [modular program on fluid mechanics](http://web.mit.edu/fluids-modules/www/) at MIT.
+This section contains the lecture notes which serve two purposes: to guide the lecture topics and to serve as the required course readings. Many of the lecture notes have 1.63J/2.21J listed as the course number. This is the new course number as of Spring 2004, when the course will be offered as a joint course with the Mechanical Engineering Department, as part of an {{% resource_link "c44e7143-7fcf-4726-8531-319a32c15725" "iCampus" %}} school-wide {{% resource_link "9e66551b-bcce-4e87-81ef-67e166299b26" "modular program on fluid mechanics" %}} at MIT.
 
 Chapter 1: Basics
 -----------------
